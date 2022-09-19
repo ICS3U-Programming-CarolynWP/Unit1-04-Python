@@ -6,11 +6,11 @@
 
 
 def main():
-    print ("For a rectangle with dimensions:")
-    print ("20m length, 34m width.")
-    print ("The area is = {} cm^2". format (20*34))
-    print ("The perimeter is = {} cm". format (2*(20+34)))
+    ("For a rectangle with dimensions:")
+    print("20m length, 34m width.")
+    print("The area is = {} m^2".format(20 * 34))
+    print("The perimeter is = {} m".format(2 * (20 + 34)))
 
 if __name__ == "__main__":
-  main()
-  
+    main()
+    
